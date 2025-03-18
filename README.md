@@ -11,7 +11,7 @@ Welcome aboard to the future of urban transportation! 🚀 Our project is on a m
 ---
 
 ## ✨ Features  
-🔹 **Smart Routing**: Navigate the city with optimal routes using advanced graph algorithms like **Dijkstra's** and **Kruskal's***.  
+🔹 **Smart Routing**: Navigate the city with optimal routes using advanced graph algorithms like **Dijkstra's** and **Kruskal's**.  
 🔹 **Real-time Updates**: Stay informed with live traffic updates and dynamic rerouting capabilities.  
 🔹 **Efficient Vehicle Management**: Manage vehicle fleets seamlessly using **efficient data structures**.  
 
